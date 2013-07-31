@@ -1,4 +1,4 @@
 github-demo
 ===========
 
-Just testing github
+Just testing hosted github, and the Github for Windows client.
